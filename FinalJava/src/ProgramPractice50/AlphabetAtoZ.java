@@ -1,0 +1,16 @@
+//Java Program to Display Alphabets (A to Z) using loop
+package ProgramPractice50;
+
+public class AlphabetAtoZ {
+
+	public static void main(String[] args) {
+		char c;
+
+		for (c = 'A'; c <= 'Z'; c++) {
+			System.out.print(c + " ");
+
+		}
+
+	}
+
+}
